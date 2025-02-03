@@ -1,0 +1,8 @@
+rdkit==2023.03.2
+scikit-learn
+pandas
+lightgbm
+ray[default]
+ray[tune]
+ray[data]
+tqdm
